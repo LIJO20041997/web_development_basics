@@ -1,0 +1,40 @@
+.Box{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(14, 102, 102, 0.388);
+    padding: 20px;
+}
+
+
+
+.box1{
+    width: 40%;
+    height: 30%;
+    background-color: bisque;
+    float: left;
+    margin: 10px;
+}
+
+.box2{
+    width: 40%;
+    height: 30%;
+    background-color: rgb(122, 14, 48);
+    float: left;
+    margin: 10px;
+}
+
+.box3{
+    width: 40%;
+    height: 30%;
+    background-color: rgb(155, 10, 56);
+    float: left;
+    margin: 10px;
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    background-color: rgb(248, 107, 140);
+    float: left;
+    margin: 10px;
+}
+
